@@ -4,7 +4,7 @@
 🌍 Aspiring Master's Student in Human-Centered AI (Fall 2028, Europe)  
 💻 Passionate about Full Stack Development & User-Centered Design  
 🌱 Currently learning: JavaScript, React, Git & GitHub  
-📂 Building: Pizza Ostaria clone, Portfolio Website, and more  
+📂 Building: Nani Pootharekulu, Portfolio Website, and more  
 
 ## 🚀 Skills
 - Programming: Python, JavaScript, HTML, CSS
