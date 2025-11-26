@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Akhil
 
-🎓 Final-year AI & ML Engineering Student  
-🌍 Aspiring Master's Student in Human-Centered AI (Fall 2028, Europe)  
+🎓 Third-year AI & ML Engineering Student    
 💻 Passionate about Full Stack Development & User-Centered Design  
 🌱 Currently learning: JavaScript, React, Git & GitHub  
 📂 Building: Nani Pootharekulu, Portfolio Website, and more  
@@ -15,7 +14,6 @@
 - 🔧 Complete Apna College Web Dev Course
 - 🧱 Build 3 Full Stack Projects
 - ✍️ Create an impressive GitHub & Portfolio
-- 🌍 Prepare strong application for Europe Master’s (Fall 2028)
 
 ## 📫 Let's Connect
 - 📧 yakhilraju16.0@gmail.com
