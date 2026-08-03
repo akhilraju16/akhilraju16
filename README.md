@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhil
 
-🎓 Third-year AI & ML Engineering Student    
+🎓 Final-year AI & ML Engineering Student    
 💻 Passionate about Full Stack Development & User-Centered Design  
 🌱 Currently learning: JavaScript, React, Git & GitHub  
 📂 Building: Nani Pootharekulu, Portfolio Website, and more  
@@ -10,7 +10,7 @@
 - Tools: Git, GitHub, VS Code, Node.js
 - Interests: Web Development, Human-Computer Interaction, AI Systems
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - 🔧 Complete Apna College Web Dev Course
 - 🧱 Build 3 Full Stack Projects
 - ✍️ Create an impressive GitHub & Portfolio
