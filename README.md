@@ -7,13 +7,8 @@
 
 ## 🚀 Skills
 - Programming: Python, JavaScript, HTML, CSS
-- Tools: Git, GitHub, VS Code, Node.js
+- Tools: Git, GitHub, VS Code, Node.js , oracle SQL
 - Interests: Web Development, Human-Computer Interaction, AI Systems
-
-## 🎯 2026 Goals
-- 🔧 Complete Apna College Web Dev Course
-- 🧱 Build 3 Full Stack Projects
-- ✍️ Create an impressive GitHub & Portfolio
 
 ## 📫 Let's Connect
 - 📧 yakhilraju16.0@gmail.com
